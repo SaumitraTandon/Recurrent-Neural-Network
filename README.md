@@ -81,10 +81,3 @@ Contributions to enhance this project are welcome. If you have improvements, bug
 ## Contact
 
 For questions, suggestions, or feedback, please reach out to me at hellosaumitra@gmail.com .
-
----
-
-This README provides a detailed overview of the `rnn.ipynb` notebook, outlining its purpose, features, usage instructions, and contribution guidelines. Adjust any sections as necessary to fit the specifics of your project and audience.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/28315475/6d05d0d7-8d5c-4a48-9c1a-184c515db4e9/rnn.ipynb
